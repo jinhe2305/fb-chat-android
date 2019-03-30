@@ -1,0 +1,4 @@
+#Thu Mar 15 05:34:34 CET 2018
+base.0=D\:\\Development\\Eclipse\\Workspace\\MyMessenger\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+path.0=classes.dex
+renamed.0=classes.dex
